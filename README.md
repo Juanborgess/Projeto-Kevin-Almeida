@@ -2,7 +2,7 @@
 
 Este é um site institucional desenvolvido para **Kevin Personal**, um personal trainer que busca apresentar seus serviços, diferenciais e formas de contato de maneira profissional e acessível.
 
-
+<img src="https://github.com/Juanborgess/Projeto-Kevin-Almeida/blob/main/img/foto-README-md.png?raw=true">
 
 ## 🖥️ Tecnologias Utilizadas
 - **HTML5**
