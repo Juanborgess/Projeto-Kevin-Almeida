@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-// Adicione este JavaScript
+
 const sr = ScrollReveal({
     distance: '60px',
     duration: 2000,
